@@ -31,4 +31,8 @@ body
 	background-color: #d4c19f;
 	color: #000000;
 	font-family: 'Edu TAS Beginner';
+
+	background-repeat: no-repeat;
+	background-attachment: fixed;
+	background-position: center;
 }
